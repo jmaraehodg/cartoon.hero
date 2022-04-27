@@ -1,0 +1,106 @@
+body{
+	margin:0;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 25px;
+	font-size: 20px;
+	
+}
+
+
+header{
+	background-color: #F05E2F;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 50px;
+	border: 0;
+	font-family: 'Gloria Hallelujah', cursive;
+	margin: 0px;
+
+}
+
+header img{
+	border-radius: 200px; 
+	width: 340px;
+	border: 15px solid white;
+	padding-top:  10;
+	padding-bottom: 0;
+	text-align: center;
+	margin: 0px;
+	max-width: 800px;
+
+}
+
+
+header h1{
+	color: white;	
+	font-size: 70px;
+	padding-top: 40px;
+	text-align: center;
+	margin: 0;
+}
+
+h1, h2, h3, h4{
+	font-family: 'Gloria Hallelujah', cursive, bold;
+
+}
+
+h2, h3, h4 {
+	font-size: 30px;
+	color: #F05E2F;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-block-start: .85em;
+    margin-block-end: .85em;
+
+}
+
+header h2 img{
+	float: left;
+	margin:  0 20px 20px 0;
+	padding-top: 0;
+
+}
+
+a{
+	color: #009DDC;
+
+}
+
+a:hover{
+	color: white;
+	background-color: #F05E2F;
+	opacity: .8;
+}
+footer{
+	background-color: #F05E2F;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-style: italic;
+	color: white;
+}
+
+footer a{
+	color: black;
+}
+
+footer a:hover{
+	background-color: #009DDC;
+	opacity: .9;
+	color: white;
+}
+main{
+	max-width: 800px;
+	text-align: left;
+	margin: 0 auto;
+	padding: 0 5px 5px;
+
+}
+
+main img{
+	max-width: 100%;
+}
