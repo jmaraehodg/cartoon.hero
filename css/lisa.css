@@ -5,7 +5,13 @@ body{
 	font-family: 'Montserrat', sans-serif;
 	line-height: 25px;
 	font-size: 20px;
-	
+}
+
+figcaption{
+	font-size: 14px;
+	color: grey;
+	font-style: italic;
+	line-height: .75;
 }
 
 
@@ -93,6 +99,7 @@ footer a:hover{
 	opacity: .9;
 	color: white;
 }
+
 main{
 	max-width: 800px;
 	text-align: left;
@@ -104,3 +111,5 @@ main{
 main img{
 	max-width: 100%;
 }
+
+
